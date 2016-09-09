@@ -126,6 +126,7 @@
     <ClInclude Include="BST.h" />
     <ClInclude Include="HeapSort.h" />
     <ClInclude Include="MyList.h" />
+    <ClInclude Include="ShortestPath.h" />
     <ClInclude Include="Sort.h" />
     <ClInclude Include="YList.h" />
   </ItemGroup>
